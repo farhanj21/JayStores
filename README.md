@@ -1,6 +1,6 @@
 # JayStores
 
-Jaystores is an online clothing store/e-commerece application designed using Full Stack and MERN.
+Jaystores is an online clothing store/e-commerce application designed using Full Stack and MERN.
 
 ## Tools Used
 -	**Next JS:** React Framework for Production
